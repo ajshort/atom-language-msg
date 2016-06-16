@@ -1,0 +1,15 @@
+{
+  "name": "language-msg",
+  "version": "0.1.0",
+  "description": "Language support for ROS action, msg and srv files",
+  "keywords": [
+    "language",
+    "ros",
+    "msg"
+  ],
+  "repository": "https://github.com/ajshort/atom-language-msg",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
